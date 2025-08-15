@@ -4,7 +4,7 @@ FRONTEND README (paste into frontend/README.md)
 
 # PulseVote Web (React + Vite)
 
-**Video demo:** <ADD_YOUTUBE_LINK_HERE>
+**Video demo:** (https://youtu.be/Tv-hmkZs-GU?si=9hV0Ca34QMUJhsVC)
 
 ## What this is
 React SPA that lets users **register**, **log in**, view a **protected dashboard**, and **log out**.
