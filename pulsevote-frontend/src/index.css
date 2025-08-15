@@ -13,6 +13,32 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+input {
+  padding: 0.6rem 0.8rem;
+  background: #0b1220;
+  color: #e2e8f0;
+  border: 1px solid #374151;
+  border-radius: 8px;
+}
+input:focus {
+  outline: none;
+  border-color: #646cff;
+}
+
+/* src/index.css */
+:root {
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: #0f172a; /* slate-900 */
+  color: #e2e8f0;      /* slate-200 */
+  font-family: Inter, system-ui, Arial, sans-serif;
+}
+a { text-decoration: none; }
+label { display: block; font-weight: 600; }
+
 a {
   font-weight: 500;
   color: #646cff;
