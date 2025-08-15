@@ -1,5 +1,5 @@
 ────────────────────────────────
-FRONTEND README (paste into frontend/README.md)
+FRONTEND README 
 ────────────────────────────────
 
 # PulseVote Web (React + Vite)
